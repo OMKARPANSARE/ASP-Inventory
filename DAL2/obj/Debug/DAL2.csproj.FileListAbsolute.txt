@@ -1,0 +1,12 @@
+E:\Delete This\WebApplication1\DAL2\bin\Debug\DAL2.dll
+E:\Delete This\WebApplication1\DAL2\bin\Debug\DAL2.pdb
+E:\Delete This\WebApplication1\DAL2\obj\Debug\DAL2.csproj.AssemblyReference.cache
+E:\Delete This\WebApplication1\DAL2\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
+E:\Delete This\WebApplication1\DAL2\obj\Debug\DAL2.dll
+E:\Delete This\WebApplication1\DAL2\obj\Debug\DAL2.pdb
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\bin\Debug\DAL2.dll
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\bin\Debug\DAL2.pdb
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\obj\Debug\DAL2.csproj.AssemblyReference.cache
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\obj\Debug\DAL2.dll
+F:\Omkar\Inventary\inventory\WebApplication1\DAL2\obj\Debug\DAL2.pdb

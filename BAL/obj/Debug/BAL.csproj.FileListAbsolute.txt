@@ -1,0 +1,18 @@
+E:\Delete This\WebApplication1\BAL\bin\Debug\BAL.dll
+E:\Delete This\WebApplication1\BAL\bin\Debug\BAL.pdb
+E:\Delete This\WebApplication1\BAL\bin\Debug\DAL2.dll
+E:\Delete This\WebApplication1\BAL\bin\Debug\DAL2.pdb
+E:\Delete This\WebApplication1\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+E:\Delete This\WebApplication1\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\Delete This\WebApplication1\BAL\obj\Debug\BAL.csproj.CopyComplete
+E:\Delete This\WebApplication1\BAL\obj\Debug\BAL.dll
+E:\Delete This\WebApplication1\BAL\obj\Debug\BAL.pdb
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\bin\Debug\BAL.dll
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\bin\Debug\BAL.pdb
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\bin\Debug\DAL2.dll
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\bin\Debug\DAL2.pdb
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\obj\Debug\BAL.csproj.CopyComplete
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\obj\Debug\BAL.dll
+F:\Omkar\Inventary\inventory\WebApplication1\BAL\obj\Debug\BAL.pdb
